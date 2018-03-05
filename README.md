@@ -1,2 +1,2 @@
 # Git - Remote
-Luke, I'm your father!
+Luke, I am your father!
